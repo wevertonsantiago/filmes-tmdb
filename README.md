@@ -27,11 +27,13 @@ Imagens do aplicativo web:<br/>
 Clique na imagem para ampliar.
 <p align='center'>
   <img height="420" src='ReadmeImages/web1.png'>
+  <img height="420" src='ReadmeImages/web2.png'>
 </p>
 
   Web responsivo:
 <p align='center'>
-  <img  height="420" src='ReadmeImages/web2.png'>
+  <img  height="420" src='ReadmeImages/web3.png'>
+  <img  height="420" src='ReadmeImages/web4.png'>
 </p>
 
 Clique no video abaixo para demonstração da aplicação web com React JS:
