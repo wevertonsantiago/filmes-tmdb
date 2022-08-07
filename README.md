@@ -38,8 +38,8 @@ Clique na imagem para ampliar.
 
 Clique no video abaixo para demonstração da aplicação web com React JS:
 <p align='center'>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=eIir-Ld5w7I
-" target="_blank"><img src="http://img.youtube.com/vi/eIir-Ld5w7I/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rN0XYCi7iIw
+" target="_blank"><img src="http://img.youtube.com/vi/rN0XYCi7iIw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="640" height="480" /></a>
 </p>  
 
